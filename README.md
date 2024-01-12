@@ -320,6 +320,8 @@
 | Moneton  | [Telegram](https://t.me/moneton_bot)        |        |         |         |
 | TonoGram | [Telegram](https://t.me/tonogrampremiumbot) |        |         |         |
 | monomenu | [Telegram](https://t.me/monodashboardbot)   |        |         |         |
+| Tegro | [Telegram](https://t.me/TegroMoney) | [GitHub]([https://t.me/TonCorp](https://github.com/TegroTON)) | [Twitter](https://twitter.com/TegroMoney) | [Website](https://tegro.money) |
+
 
 ## Marketplaces
 
